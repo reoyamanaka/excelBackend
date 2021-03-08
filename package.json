@@ -1,0 +1,40 @@
+{
+  "name": "excelbackend",
+  "version": "1.0.0",
+  "description": "A website that takes in inputs from the frontend and processes them in a backend Excel sheet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reoyamanaka/excelBackend.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript",
+    "js",
+    "nodeJS",
+    "excel",
+    "spreadsheet",
+    "Excel",
+    "Microsoft",
+    "Excel",
+    "microsoft",
+    "excel",
+    "xlsx"
+  ],
+  "author": "Reo Yamanaka",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/reoyamanaka/excelBackend/issues"
+  },
+  "homepage": "https://github.com/reoyamanaka/excelBackend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pug": "^3.0.2",
+    "xlsx": "^0.16.9"
+  }
+}
