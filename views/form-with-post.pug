@@ -2,6 +2,9 @@ extends base.pug
 
 block content
     form(action="/submit-form-with-post" method="post")
+        p
+        | Revenue:   
         input(type="text", name="revenue")
+        |       Cost:   
         input(type="text", name="cost")
         input(type="submit", name="Calculate")
