@@ -1,5 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
+const updateSheet = require('./updateSheet.js');
 
 const app = express();
 
@@ -26,6 +27,7 @@ app.get('/submit-form-with-get', (req, res) => {
 });
 
 app.post('/submit-form-with-post', (req, res) => {
+    updateSheet(req.body.revenue, req.body.cost);
     return res.send(req.body);
 });
 
