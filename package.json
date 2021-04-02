@@ -39,7 +39,7 @@
     "express": "^4.17.1",
     "pug": "^3.0.2",
     "xlsx": "^0.16.9",
-    "xlsx-calc": "^0.6.8",
+    "xlsx-calc": "^0.6.2",
     "xlsx-populate": "^1.21.0"
   },
   "devDependencies": {
