@@ -59,7 +59,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Create a new Excel file with updated values. 
 
+<b>Key features:</b>
+<ul>
+  <li>GUI input and output</li>
+  <li>Formulas can be programmed</li>
+</ul>
+<a href="#usage">See the demo!</a>
 
 ### Built With
 
