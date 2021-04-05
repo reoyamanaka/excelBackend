@@ -64,7 +64,7 @@ Create a new Excel file with updated values.
 <b>Key features:</b>
 <ul>
   <li>GUI input and output</li>
-  <li>Formulas can be programmed</li>
+  <li>Formulas can be programmed in</li>
 </ul>
 <a href="#usage">See the demo!</a>
 
