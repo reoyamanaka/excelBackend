@@ -101,7 +101,7 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE -->
 ## Usage
 
-<!-- ![](images/demo.gif) -->
+![](images/demo.gif)
 
 
 <!-- ROADMAP -->
